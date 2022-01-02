@@ -20,5 +20,5 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjaria007)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=manjaria007)](https://github.com/manjaria007/github-readme-stats)
 
